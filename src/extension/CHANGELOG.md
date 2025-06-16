@@ -1,5 +1,11 @@
 # moonlight-vscode-theme
 
+## [5.3.0] - 2025-06-15
+
+- Code cleanup and organization
+- Support for more languages
+- New `semanticTokenColors` to match `tokenColors` (might help with languages I didn't manually change)
+
 ## [5.2.5] - 2025-06-11
 
 - Add Python Notebook screenshot
