@@ -711,6 +711,7 @@
         "meta.hashtable.assignment",
         "meta.object.member.js",
         "meta.object.member.ts",
+        "string.unquoted.argument.shell",
         "variable.argument.css",
         "variable.other.object.access.c",
         "variable.parameter",
