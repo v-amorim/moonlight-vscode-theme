@@ -1,5 +1,9 @@
 # moonlight-vscode-theme
 
+## 5.3.2 - 2025-06-25
+
+- Fixed terminal search match colors
+
 ## 5.3.1 - 2025-06-15
 
 - Fixed shell argument color
