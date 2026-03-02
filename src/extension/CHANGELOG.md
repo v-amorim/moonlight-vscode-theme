@@ -1,5 +1,9 @@
 # moonlight-vscode-theme
 
+## 5.4.0 - 2026-03-02
+
+- Changes to json key color
+
 ## 5.3.2 - 2025-06-25
 
 - Fixed terminal search match colors

@@ -493,9 +493,6 @@
         "meta.template-tag.start",
         "punctuation.bracket.angle",
         "punctuation.bracket.angle.java",
-        "support.type.property-name",
-        "support.type.property-name.json",
-        "support.type.property-name.qss",
         "variable.other.metavariable.specifier",
         "variable.other.property",
         "variable.other.property.js",
@@ -567,13 +564,16 @@
         "meta.jsx.children",
         "meta.member.access",
         "meta.member.access.python",
+        "support.type.property-name",
+        "support.type.property-name.json",
+        "support.type.property-name.qss",
         "variable.other.member",
         "variable.other.member.c",
         "variable.other.object.property",
         "variable.other.object.property.cs"
       ],
       "settings": {
-        "foreground": "#698cff"
+        "foreground": "#78a1fa"
       }
     },
     {
