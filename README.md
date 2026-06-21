@@ -89,6 +89,13 @@ Moonlight 🌌 is designed with developer comfort in mind, offering a consistent
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | ![image](https://raw.githubusercontent.com/v-amorim/moonlight-vscode-theme/refs/heads/main/assets/sourcecontrol_welcome.png) |
 
+## Building
+
+```bash
+vsce package
+vsce publish
+```
+
 ## License
 
 This theme is released under the [MIT License](https://github.com/v-amorim/moonlight-vscode-theme/blob/main/LICENSE).

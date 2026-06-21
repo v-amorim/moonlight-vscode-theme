@@ -1,5 +1,9 @@
 # moonlight-vscode-theme
 
+## 5.4.1 - 2026-06-21
+
+- Changes logo
+
 ## 5.4.0 - 2026-03-02
 
 - Changes to json key color
