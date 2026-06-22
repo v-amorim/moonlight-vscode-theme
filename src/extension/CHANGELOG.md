@@ -1,5 +1,9 @@
 # moonlight-vscode-theme
 
+## 5.5.1 - 2026-06-22
+
+- Fix the ruler color
+
 ## 5.5.0 - 2026-06-21
 
 - Resolved overlapping syntax scopes and removed duplicate scope entries, so functions, parameters, object properties, member variables, tags, and inherited classes now resolve to their intended color

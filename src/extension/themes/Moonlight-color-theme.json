@@ -1261,7 +1261,7 @@
     "editorOverviewRuler.wordHighlightStrongForeground": "#0000",
     "editorOverviewRuler.wordHighlightTextForeground": "#0000",
     "editorPane.background": "#0c0e17",
-    "editorRuler.foreground": "#ff72af60",
+    "editorRuler.foreground": "#ff72af1e",
     "editorStickyScroll.background": "#0c0e17",
     "editorStickyScroll.border": "#3a4266",
     "editorStickyScroll.shadow": "#00000060",
